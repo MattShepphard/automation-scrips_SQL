@@ -1,29 +1,15 @@
-# SQL Scripts para Automatización y Análisis
+Portafolio de Automatización y BI
 
-Repositorio con scripts desarrollados para tareas de:
+Este repositorio contiene scripts SQL y reportes desarrollados con Power BI y SSRS para procesos de automatización, análisis y visualización de datos.
 
-- Análisis de rebotes de correos
-- Reportes de pagos por campaña
-- Limpieza de datos y validación
-- Consultas optimizadas con JOIN, CTE, y funciones
+📂 Contenido
 
-# Reportes BI y SSRS
+- `/sql/`: Scripts para clasificación de emails, validaciones, reportes
+- `/ssrs/`: Reportes en formato `.rdl` listos para importar a SSRS
+- `/powerbi/`: Archivos `.pbix` con dashboards interactivos
 
-Este repositorio contiene ejemplos de reportes desarrollados con Power BI y SQL Server Reporting Services (SSRS) para automatizar la visualización y análisis de datos de pagos, campañas y cobranzas.
+🧠 Habilidades demostradas
 
-## 📊 Power BI
-
-**Reporte:** Ventas por campaña y canal  
-**Características:**
-- Filtros por mes, producto y región
-- Mapa interactivo de zonas de venta
-- KPIs de cumplimiento
-
-## 🧾 SSRS
-
-**Reporte:** Resumen de recaudación por ejecutivo  
-**Fuentes de datos:** SQL Server  
-**Características:**
-- Agrupación por zonas
-- Exportación automática en PDF
-- Envío programado por correo
+- Automatización de reportería con SQL Server
+- Visualización de datos con Power BI y SSRS
+- Análisis de campañas, pagos, contactos y KPI
